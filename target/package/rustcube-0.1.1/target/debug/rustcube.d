@@ -1,0 +1,1 @@
+/Users/joshuawink/Documents/github/Ai\ Tools/prompts/.secure/rustcube/target/package/rustcube-0.1.1/target/debug/rustcube: /Users/joshuawink/Documents/github/Ai\ Tools/prompts/.secure/rustcube/target/package/rustcube-0.1.1/src/estimate.rs /Users/joshuawink/Documents/github/Ai\ Tools/prompts/.secure/rustcube/target/package/rustcube-0.1.1/src/main.rs

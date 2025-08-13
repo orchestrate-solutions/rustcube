@@ -1,0 +1,19 @@
+[package]
+name = "rustcube"
+version = "0.1.0"
+edition = "2021"
+description = "Multi-password, order-dependent, streaming encryption/decryption tool with secure memory handling."
+authors = ["JoshuaWink <your@email.com>"]
+license = "MIT"
+
+
+[dependencies]
+libaes = "0.7"
+pbkdf2 = "0.12"
+rand = "0.8"
+zeroize = "1.6"
+clap = { version = "4.5", features = ["derive"] }
+tar = "0.4"
+hex = "0.4"
+sha2 = "0.10"
+rpassword = "7.3"
