@@ -4,7 +4,9 @@
 [![Crates.io](https://img.shields.io/crates/v/rustcube?label=crates.io)](https://crates.io/crates/rustcube)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/orchestrate-solutions/rustcube/blob/main/LICENSE)
 
-Multi-password, order-dependent, streaming encryption/decryption tool with secure memory handling.
+Multi-password, order-dependent, encryption/decryption tool with secure memory handling. 
+
+Think Rubik’s Cube meets combination lock. Every password turns the cube. Only the exact twist sequence lands on the solving state that opens the box.
 
 ## Features
 - **Multi-password, order-dependent**: Any number of passwords, order matters, case sensitive. Only the correct sequence unlocks the data everything else returns non-sensical output.
