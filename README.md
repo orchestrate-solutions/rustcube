@@ -1,5 +1,9 @@
 # rustcube
 
+[![Release](https://img.shields.io/github/v/release/orchestrate-solutions/rustcube?label=release)](https://github.com/orchestrate-solutions/rustcube/releases)
+[![Crates.io](https://img.shields.io/crates/v/rustcube?label=crates.io)](https://crates.io/crates/rustcube)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/orchestrate-solutions/rustcube/blob/main/LICENSE)
+
 Multi-password, order-dependent, streaming encryption/decryption tool with secure memory handling.
 
 ## Features
